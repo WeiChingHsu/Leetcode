@@ -14,8 +14,6 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 ---
 
 ## 📈 Progress Tracker
-## 📈 Progress Tracker
-
 <details>
 <summary><b>Day 1: 2026-03-29</b></summary>
 
