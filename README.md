@@ -15,12 +15,13 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 
 ## 📈 Progress Tracker
 <details>
-<summary><b>Day 1: 2026-03-29</b></summary>
+<summary><b>Day 1: 2026-03-29</b> (完成題數: 2)</summary>
 
 | Problem # | Title | Difficulty | Key Concept | Solution |
 | :--- | :--- | :--- | :--- | :--- |
 | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | Array | [Code](./Daily_Question/202603/2839-Check_if_Strings_Can_be_Made_Equal_With_Operations_I.ipynb) |
 | 3289 | The Two Sneaky Numbers | Easy | Bit Manipulation (XOR) | [Code](./Daily_Question/202510/3289-The_Two_Sneaky_Numbers_of_Digitville.ipynb) |
+| 3217 | Delete Nodes From Linked List Present in Array | Medium | Hash Table & Linked list | [Code](./Daily_Question/202511/3217-Delete_Nodes_From_Linked_List_Present_in_Array.ipynb) |
 
 </details>
 
