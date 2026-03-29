@@ -15,10 +15,13 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 
 ## 📈 Progress Tracker
 <details>
-    <summary>Day 1: 2026-03-29</summary>
-    | Problem # | Title | Difficulty | Key Concept |
-    | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | array |
-    | 3289 | The Two Sneaky Numbers | Easy | Bit Manipulation (XOR) |
+    <summary><b>Day 1: 2026-03-29</b> (完成題數: 2)</summary>
+
+    | Problem # | Title | Difficulty | Key Concept | Solution |
+    | :--- | :--- | :--- | :--- | :--- |
+    | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | array | [Code](./Daily_Question/202603/2839.%20Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I.ipynb)
+    | 3289 | The Two Sneaky Numbers | Easy | Bit Manipulation (XOR) | [Code](./Daily_Question/202510/3289.%20The%20Two%20Sneaky%20Numbers%20of%20Digitville.ipynb)
+
 </details>
 
 ---
