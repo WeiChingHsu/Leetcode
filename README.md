@@ -13,16 +13,13 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 
 ---
 
-
 ## 📈 Progress Tracker
 <details>
     <summary>Day 1: 2026-03-29</summary>
     | Problem # | Title | Difficulty | Key Concept |
-    | :--- | :--- | :--- | :--- | :--- |
     | 2839 | Check if Strings Can be Made Equal With Operations I | Easy | array |
     | 3289 | The Two Sneaky Numbers | Easy | Bit Manipulation (XOR) |
-    | ... | ... | ... | ... | ... |
-<details>
+</details>
 
 ---
 
