@@ -23,6 +23,7 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 | Problem # | Title | Difficulty | Key Concept | Solution |
 | :---: | :--- | :---: | :--- | :---: |
 | 2840 | Check if Strings Can be Made Equal With Operations II | :orange_circle: Med. | Hash Table & String | [Code](./Daily_Question/202603/2840-Check_if_Strings_Can_be_Made_Equal_With_Operations_II.ipynb) |
+| 2257 | Count Unguarded Cells in the Grid | :orange_cycle: Med. | Array & Matrix | [Code](./Daily_Question/202511/2257-Count_Unguarded_Cells_in_the_Grid.ipynb)
 
 </details>
 
