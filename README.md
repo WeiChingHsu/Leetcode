@@ -31,7 +31,7 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 <summary><b>Day 2: 2026-03-30</b> (完成題數: 1)</summary>
 
 | Problem # | Title | Difficulty | Key Concept | Solution |
-| :--- | :--- | :--- | :--- | :--- |
+| :---: | :--- | :---: | :--- | :---: |
 | 2840 | Check if Strings Can be Made Equal With Operations II | :orange_circle: Med. | Hash Table & String | [Code](./Daily_Question/202603/2840-Check_if_Strings_Can_be_Made_Equal_With_Operations_II.ipynb) |
 
 </details>
