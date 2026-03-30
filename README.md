@@ -18,12 +18,13 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 ## 📈 Progress Tracker
 
 <details>
-<summary><b>Day 2: 2026-03-30</b> (完成題數: 2)</summary>
+<summary><b>Day 2: 2026-03-30</b> (完成題數: 3)</summary>
 
 | Problem # | Title | Difficulty | Key Concept | Solution |
 | :---: | :--- | :---: | :--- | :---: |
 | 2840 | Check if Strings Can be Made Equal With Operations II | :orange_circle: Med. | Hash Table & String | [Code](./Daily_Question/202603/2840-Check_if_Strings_Can_be_Made_Equal_With_Operations_II.ipynb) |
 | 2257 | Count Unguarded Cells in the Grid | :orange_circle: Med. | Array & Matrix | [Code](./Daily_Question/202511/2257-Count_Unguarded_Cells_in_the_Grid.ipynb)
+| 1578 | Minimum Time to Make Rope Colorful | :orange_circle: Med. | String & Greedy | [Code](./Daily_Question/202511/1578-Minimum_Time_to-Make_Rope_Colorful.ipynb)
 
 </details>
 
