@@ -16,6 +16,16 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 ---
 
 ## 📈 Progress Tracker
+
+<details>
+<summary><b>Day 2: 2026-03-30</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :--- | :---: |
+| 2840 | Check if Strings Can be Made Equal With Operations II | :orange_circle: Med. | Hash Table & String | [Code](./Daily_Question/202603/2840-Check_if_Strings_Can_be_Made_Equal_With_Operations_II.ipynb) |
+
+</details>
+
 <details>
 <summary><b>Day 1: 2026-03-29</b> (完成題數: 3)</summary>
 
@@ -27,22 +37,13 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 
 </details>
 
-<details>
-<summary><b>Day 2: 2026-03-30</b> (完成題數: 1)</summary>
-
-| Problem # | Title | Difficulty | Key Concept | Solution |
-| :---: | :--- | :---: | :--- | :---: |
-| 2840 | Check if Strings Can be Made Equal With Operations II | :orange_circle: Med. | Hash Table & String | [Code](./Daily_Question/202603/2840-Check_if_Strings_Can_be_Made_Equal_With_Operations_II.ipynb) |
-
-</details>
-
 ---
 
 ## 👤 About Me
 
 - **Name:** Adam Hsu / 許惟清
 - **Education:**
-  - M.S. (Aug 2026), **National Central University (NCU)**
+  - M.S. in CS, **National Central University (NCU)**
   - B.S. in CS, **National Taiwan University of Science and Technology (NTUST)**
 
 ---
