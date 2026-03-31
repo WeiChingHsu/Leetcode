@@ -18,6 +18,16 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 ## 📈 Progress Tracker
 
 <details>
+<summary><b>Day 3: 2026-03-31</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :--- | :---: |
+| 3474 | Lexicographically Smallest Generated String | :red_circle: hard | Greedy & String Matching | [Code](./Daily_Question/202603/3474-Lexicographically_Smallest_Generated_String.ipynb) |
+
+</details>
+
+
+<details>
 <summary><b>Day 2: 2026-03-30</b> (完成題數: 3)</summary>
 
 | Problem # | Title | Difficulty | Key Concept | Solution |
