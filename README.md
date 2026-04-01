@@ -18,6 +18,15 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 ## 📈 Progress Tracker
 
 <details>
+<summary><b>Day 4: 2026-04-01</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :--- | :---: |
+| 2751 | Robot Collisions | :red_circle: hard | stack & sorting | [Code](./Daily_Question/202604/2751-Robot_Collisions.ipynb) |
+
+</details>
+
+<details>
 <summary><b>Day 3: 2026-03-31</b> (完成題數: 1)</summary>
 
 | Problem # | Title | Difficulty | Key Concept | Solution |
