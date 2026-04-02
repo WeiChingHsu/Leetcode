@@ -18,11 +18,20 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 ## 📈 Progress Tracker
 
 <details>
+<summary><b>Day 5: 2026-04-02</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :--- | :---: |
+| 3418 | Maximum Amount of Money Robot Can Earn | :orange_circle: Med. | DP & Matrix | [Code](./Daily_Question/202604/3418-Maximum_Amount_of_Money_Robot_Can_Earn.ipynb) |
+
+</details>
+
+<details>
 <summary><b>Day 4: 2026-04-01</b> (完成題數: 1)</summary>
 
 | Problem # | Title | Difficulty | Key Concept | Solution |
 | :---: | :--- | :---: | :--- | :---: |
-| 2751 | Robot Collisions | :red_circle: hard | stack & sorting | [Code](./Daily_Question/202604/2751-Robot_Collisions.ipynb) |
+| 2751 | Robot Collisions | :red_circle: Hard | Stack & Sorting | [Code](./Daily_Question/202604/2751-Robot_Collisions.ipynb) |
 
 </details>
 
@@ -31,7 +40,7 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 
 | Problem # | Title | Difficulty | Key Concept | Solution |
 | :---: | :--- | :---: | :--- | :---: |
-| 3474 | Lexicographically Smallest Generated String | :red_circle: hard | Greedy & String Matching | [Code](./Daily_Question/202603/3474-Lexicographically_Smallest_Generated_String.ipynb) |
+| 3474 | Lexicographically Smallest Generated String | :red_circle: Hard | Greedy & String Matching | [Code](./Daily_Question/202603/3474-Lexicographically_Smallest_Generated_String.ipynb) |
 
 </details>
 
