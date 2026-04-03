@@ -18,6 +18,15 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 ## 📈 Progress Tracker
 
 <details>
+<summary><b>Day 6: 2026-04-03</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :--- | :---: |
+| 3661 | Maximum Walls Destroyed by Robots | :red_circle: Hard | DP & Binary Search | [Code](./Daily_Question/202604/3661-Maximum_Walls_Destroyed_by_Robots.ipynb) |
+
+</details>
+
+<details>
 <summary><b>Day 5: 2026-04-02</b> (完成題數: 1)</summary>
 
 | Problem # | Title | Difficulty | Key Concept | Solution |
