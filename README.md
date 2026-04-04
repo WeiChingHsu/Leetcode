@@ -17,6 +17,16 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 
 ## 📈 Progress Tracker
 
+
+<details>
+<summary><b>Day 7: 2026-04-04</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :--- | :---: |
+| 2075 | Decode the Slanted Ciphertext | :orange_circle: Med. | String | [Code](./Daily_Question/202604/2075-Decode_the_Slanted_Ciphertext.ipynb) |
+
+</details>
+
 <details>
 <summary><b>Day 6: 2026-04-03</b> (完成題數: 1)</summary>
 
