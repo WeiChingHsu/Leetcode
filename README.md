@@ -19,6 +19,15 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 
 
 <details>
+<summary><b>Day 8: 2026-04-05</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :---: | :---: |
+| 657 | Robot Return to Origin | :green_circle: Easy | String | [Code](./Daily_Question/202604/657-Robot_Return_to_Origin.ipynb) |
+
+</details>
+
+<details>
 <summary><b>Day 7: 2026-04-04</b> (完成題數: 1)</summary>
 
 | Problem # | Title | Difficulty | Key Concept | Solution |
