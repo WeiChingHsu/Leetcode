@@ -19,6 +19,15 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 
 
 <details>
+<summary><b>Day 9: 2026-04-06</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :---: | :---: |
+| 874 | Walking Robot Simulation | :orange_circle: Med. | Array & Hash Table | [Code](./Daily_Question/202604/874-Walking_Robot_Simulation.ipynb) |
+
+</details>
+
+<details>
 <summary><b>Day 8: 2026-04-05</b> (完成題數: 1)</summary>
 
 | Problem # | Title | Difficulty | Key Concept | Solution |
