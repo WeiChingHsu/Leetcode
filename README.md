@@ -17,6 +17,41 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 
 ## 📈 Progress Tracker
 
+<details>
+<summary><b>Day 12: 2026-04-10</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :---: | :---: |
+| 3655 | XOR After Range Multiplication Queries II | :red_circle: Hard | Array & Bit operation | [Code](./Daily_Question/202604/3655-XOR_After_Range_Multiplication_Queries_II.ipynb) |
+
+</details>
+
+<details>
+<summary><b>Day 11: 2026-04-09</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :---: | :---: |
+| 3653 | XOR After Range Multiplication Queries I | :orange_circle: Med. | Array & Bit operation | [Code](./Daily_Question/202604/3653-XOR_After_Range_Multiplication_Queries_I.ipynb) |
+
+</details>
+
+<details>
+<summary><b>Day 11: 2026-04-08</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :---: | :---: |
+| 3653 | XOR After Range Multiplication Queries I | :orange_circle: Med. | Array & Bitwise Operation | [Code](./Daily_Question/202604/3653-XOR_After_Range_Multiplication_Queries_I.ipynb) |
+
+</details>
+
+<details>
+<summary><b>Day 10: 2026-04-07</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :---: | :---: |
+| 2069 | Walking Robot Simulation II | :orange_circle: Med. | Design & Simulation | [Code](./Daily_Question/202604/2069-Walking_Robot_Simulation_II.ipynb) |
+
+</details>
 
 <details>
 <summary><b>Day 9: 2026-04-06</b> (完成題數: 1)</summary>
