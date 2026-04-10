@@ -18,7 +18,17 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 ## 📈 Progress Tracker
 
 <details>
-<summary><b>Day 12: 2026-04-19</b> (完成題數: 1)</summary>
+<summary><b>Day 13: 2026-04-10</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :---: | :---: |
+| 3740 | Minimum Distance Between Three Equal Elements I | :green_circle: Easy | Array & Hash Table | [Code](./Daily_Question/202604/3740-Minimum_Distance_Between_Three_Equal_Elements_I.ipynb) |
+
+</details>
+
+
+<details>
+<summary><b>Day 12: 2026-04-09</b> (完成題數: 1)</summary>
 
 | Problem # | Title | Difficulty | Key Concept | Solution |
 | :---: | :--- | :---: | :---: | :---: |
