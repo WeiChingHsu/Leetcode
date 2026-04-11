@@ -18,6 +18,16 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 ## 📈 Progress Tracker
 
 <details>
+<summary><b>Day 14: 2026-04-11</b> (完成題數: 2)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :---: | :---: |
+| 3741 | Minimum Distance Between Three Equal Elements II | :orange_circle: Med. | Array & Hash Table | [Code](./Daily_Question/202604/3741-Minimum_Distance_Between_Three_Equal_Elements_II.ipynb) |
+| 704 | Binary Search | :green_circle: Easy | Array & Binary Search | [Code](./Daily_Question/202604/704-Binary_Search.ipynb) |
+
+</details>
+
+<details>
 <summary><b>Day 13: 2026-04-10</b> (完成題數: 1)</summary>
 
 | Problem # | Title | Difficulty | Key Concept | Solution |
