@@ -10,12 +10,30 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 
 ## 🛠️ Tech Stack
 
-- **Primary:** Python
+- **Primary:** Pythons
 - **Secondary:** C++ / C
 
 ---
 
 ## 📈 Progress Tracker
+
+<details>
+<summary><b>Day 16: 2026-04-13</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :---: | :---: |
+| 1848 | Minimum Distance to the Target Element | :green_circle: Easy | array | [Code](./Daily_Question/202604/1848-Minimum_Distance_to_the_Target_Element.ipynb) |
+
+</details>
+
+<details>
+<summary><b>Day 15: 2026-04-12</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :---: | :---: |
+| 1320 | Minimum Distance to Type a Word Using Two Fingers | :red_circle: Hard | String & Dynamic Programming | [Code](./Daily_Question/202604/1320-Minimum_Distance_to_Type_a_Word_Using_Two_Fingers.ipynb) |
+
+</details>
 
 <details>
 <summary><b>Day 14: 2026-04-11</b> (完成題數: 2)</summary>
