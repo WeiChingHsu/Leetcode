@@ -18,6 +18,42 @@ This repository tracks my daily journey of solving LeetCode problems. As an CS s
 ## 📈 Progress Tracker
 
 <details>
+<summary><b>Day 20: 2026-04-17</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :---: | :---: |
+| 3761 | Minimum Absolute Distance Between Mirror Pairs | :orange_circle: Med. | Hash Table | [Code](./Daily_Question/202604/3761-Minimum_Absolute_Distance_Between_Mirror_Pairs.ipynb) |
+
+</details>
+
+<details>
+<summary><b>Day 19: 2026-04-16</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :---: | :---: |
+| 3488 | Closest Equal Element Queries | :orange_circle: Med. | Hash Table & Binary Search | [Code](./Daily_Question/202604/3488-Closest_Equal_Element_Queries.ipynb) |
+
+</details>
+
+<details>
+<summary><b>Day 18: 2026-04-15</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :---: | :---: |
+| 2515 | Shortest Distance to Target String in a Circular Array | :green_circle: Easy | Array & String | [Code](./Daily_Question/202604/2515-Shortest_Distance_to_Target_String_in_a_Circular_Array.ipynb) |
+
+</details>
+
+<details>
+<summary><b>Day 17: 2026-04-14</b> (完成題數: 1)</summary>
+
+| Problem # | Title | Difficulty | Key Concept | Solution |
+| :---: | :--- | :---: | :---: | :---: |
+| 2463 | Minimum Total Distance Traveled | :red_circle: Hard | Dynamic Programming | [Code](./Daily_Question/202604/2463-Minimum_Total_Distance_Traveled.ipynb) |
+
+</details>
+
+<details>
 <summary><b>Day 16: 2026-04-13</b> (完成題數: 1)</summary>
 
 | Problem # | Title | Difficulty | Key Concept | Solution |
